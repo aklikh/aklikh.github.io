@@ -239,7 +239,8 @@ body {
 .contact_section,
 .tech-skills-section,
 .soft-skills-section,
-.languages-section{
+.languages-section,
+.driving-license-section{
     margin: 30px 0 0 40px;
 }
 
@@ -302,4 +303,16 @@ body {
     font-size: 16px;
     line-height: 30px;
     color: #fff;      
+}
+
+
+/*Driving-license*/
+
+.driving-license-title{    
+    paddig-top: 30px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 30px;
+    color: #000;  
 }
